@@ -1,0 +1,5 @@
+git init
+git CHALLENGE 1.pdf
+git commit -m "Challenge #1: Goal"
+git remote add origin https://github.com/your-username/IntroToComputing-Challenges.git
+git push -u origin master
